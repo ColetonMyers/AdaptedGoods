@@ -9,22 +9,21 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Hello 👋.",
-  title2: "Callum",
-  logo_name: "callum.sh()",
-  nickname: "callum / asdf",
-  full_name: "Callum Sharrock",
-  subTitle: "Software Developer, Product Owner, Wanna-be Engineer.",
-  resumeLink:
-    "https://drive.google.com/file/d/1QMlzaXGJOmTcOFm0zZ91Je2iX-0uqQL2/view?usp=share_link",
-  mail: "mailto:callum.sharrock@gmail.com",
+  title: "Hello 👋",
+  title2: "Cole",
+  logo_name: "Cole.Myers()",
+  nickname: "Cole / asdf",
+  full_name: "Coleton Myers",
+  subTitle: "Mechanical Designer, Tinker-er, CAD Monkey.",
+  resumeLink: "https://coleton.ca/resume.pdf",
+  mail: "mailto:c4myers@uwaterloo.ca",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/callum-sh",
-  linkedin: "https://www.linkedin.com/in/callum-sharrock/",
-  gmail: "callum.sharrock@gmail.com",
+  linkedin: "https://www.linkedin.com/in/coleton/",
+  gmail: "c4myers@uwaterloo.ca",
 };
 
 const skills = {
@@ -46,8 +45,8 @@ const skills = {
           },
         },
         {
-          skillName: "Django",
-          fontAwesomeClassname: "simple-icons:django",
+          skillName: "Adn",
+          fontAwesomeClassname: "simple-icons:airbnb",
           style: {
             color: "#3776AB",
           },
@@ -60,8 +59,8 @@ const skills = {
           },
         },
         {
-          skillName: "Flask",
-          fontAwesomeClassname: "simple-icons:flask",
+          skillName: "Solidworks",
+          fontAwesomeClassname: "simple-icons:adn",
           style: {
             color: "#3776AB",
           },
@@ -540,6 +539,13 @@ const projects = {
       id: "4",
       name: "Personal Portfolio",
       details: "",
+      description: "You're currently on it...",
+      languages: [],
+    },
+    {
+      id: "9",
+      name: "Test Block",
+      details: "agile",
       description: "You're currently on it...",
       languages: [],
     },
